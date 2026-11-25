@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: src/minesweeper/Main.java
+    visible: true
+    learner_created: false
+  - name: test/MinesweeperTest.java
+    visible: true
+    learner_created: false
+  - name: src/minesweeper/Minesweeper.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/projects/77/stages/426/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 21 Nov 2026 23:53:21 UTC"
+record: -1
